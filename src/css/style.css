@@ -1,11 +1,17 @@
+body {
+    max-width: 1500px;
+    margin: 0 auto ;
+     background-image: url('../images/bg-repeat.jpg') ;
+    background-size: contain;
+}
+
 main {
     display: flex;
     height: 100vh;
     justify-content: space-around;
     align-items: center;
     
-    background-image: url('../images/bg-repeat.jpg') ;
-    background-size: contain;
+   
     padding: 50px;
     gap: 100px;
 }
