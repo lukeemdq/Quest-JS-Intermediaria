@@ -51,7 +51,8 @@ main {
     width: 100%;
     padding: 10px;
     height: 300px;
-    text-align:unset
+    text-align:unset;
+    resize: none;
 }
 
 .verification.check {
